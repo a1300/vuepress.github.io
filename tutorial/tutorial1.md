@@ -196,7 +196,7 @@ Move your mouse or touch over the headline and you'll see a pound sign appear.
 
 That represents a link to this exact location on the page (called an anchor, corresponding to an
 anchor tag in HTML). If you right-click it and choose to copy the link from the context menu, 
-when you paste in that link it will be pasted as `http://localhost:8080/http://localhost:8080/index.html#welcome-to-example-com`, 
+when you paste in that link it will be pasted as `http://localhost:8080/#welcome-to-example-com`, 
 not just `http://localhost:8080`.
 
 Any good website used for reference purposes should use descriptive anchors like this. Vuepress
